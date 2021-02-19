@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "incidents": [
+    {
+      "incidentID": "1445588370.1244278560",
+      "startTime": 1445588370,
+      "falsePositive": "False",
+      "state": "Resolved",
+      "endTime": 1445588970
+    },
+    {
+      "incidentID": "1448471670.1312868952",
+      "startTime": 1448471670,
+      "falsePositive": "False",
+      "state": "Resolved",
+      "endTime": 1448472870
+    }
+  ],
+  "lastUpdateApiDatabase": 1490054400
+}

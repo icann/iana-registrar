@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "lastUpdateApiDatabase": 1422492450,
+  "tld": "example",
+  "cycleCalculationDateTime": 1422734490,
+  "status": "Down",
+  "testedInterface": [
+    {
+      "interface": "RDDS43",
+      "status": "Up",
+      "probes": [
+        {
+          "city": "WashingtonDC",
+          "status": "Down",
+          "testData": [
+            {
+              "target": null,
+              "status": "Down",
+              "metrics": [
+                {
+                  "testDateTime": 1422734513,
+                  "targetIP": "2001:DB8::1",
+                  "rtt": null,
+                  "description": "-200, No reply from name server"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Sydney",
+          "status": "Up",
+          "testData": [
+            {
+              "target": null,
+              "status": "Up",
+              "metrics": [
+                {
+                  "testDateTime": 1422734508,
+                  "targetIP": "192.0.2.1",
+                  "rtt": 250,
+                  "description": "ok"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "interface": "RDDS80",
+      "status": "Down",
+      "probes": [
+        {
+          "city": "WashingtonDC",
+          "status": "Down",
+          "testData": [
+            {
+              "target": null,
+              "status": "Down",
+              "metrics": [
+                {
+                  "testDateTime": 1422734513,
+                  "targetIP": "192.0.2.1",
+                  "rtt": null,
+                  "description": "-200, No reply from name server"
+                } 
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Sydney",
+          "status": "Down",
+          "testData": [
+            {
+              "target": null,
+              "status": "Down",
+              "metrics": [
+                {
+                  "testDateTime": 1422734508,
+                  "targetIP": "192.0.2.1",
+                  "rtt": null,
+                  "description": "-200, No reply from name server "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

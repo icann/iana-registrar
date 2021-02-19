@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "lastUpdateApiDatabase": 1422492450,
+  "tld": "example",
+  "status": "Down",
+  "testedService": [
+    {
+      "service": "DNS",
+      "status": "Down",
+      "emergencyThreshold": 25,
+      "incidents": [
+        {
+          "incidentID": "1422492450.699",
+          "startTime": 1422492450,
+          "falsePositive": false,
+          "state": "Active",
+          "endTime": null
+        },
+        {
+          "incidentID": "1422492850.3434",
+          "startTime": 1422492850,
+          "falsePositive": true,
+          "state": "Resolved",
+          "endTime": 1422492950
+        }
+      ]      
+    },
+    {
+      "service": "RDDS",
+      "status": "Up",
+      "emergencyThreshold": 10,
+      "incidents": [
+        {
+          "incidentID": "1422492450.699",
+          "startTime": 1422492450,
+          "falsePositive": false,
+          "state": "Resolved",
+          "endTime": 1422492950
+        }
+      ]      
+    }
+  ]
+}
