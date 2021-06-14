@@ -1,2 +1,3 @@
 "ID",Registrar Name,Status,RDAP Base URL
-9,"Registrar.com, Inc.",Accredited,https://rdap.nic.tld1:8443/rdap/domain/
+9,"Registrar.com, Inc.",Terminated,https://rdap.nic.tld1:8443/rdap/domain/
+10,"Registrar2.com, Inc.",Accredited,https://rdap.nic.tld1:8443/rdap/domain/
