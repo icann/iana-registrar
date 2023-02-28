@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "incidents": [
+    {
+      "incidentID": "1423013430.723",
+      "startTime": 1423013430,
+      "falsePositive": "False",
+      "state": "Resolved",
+      "endTime": 1445588970
+    }
+  ]
+}

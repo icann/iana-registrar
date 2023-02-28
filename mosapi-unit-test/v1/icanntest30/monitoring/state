@@ -1,0 +1,1 @@
+{"tld":"tld500","testedServices":{"RDDS":{"status":"Up","incidents":[],"emergencyThreshold":"0.0000"},"DNSSEC":{"status":"Up","incidents":[],"emergencyThreshold":"0.0000"},"EPP":{"status":"Disabled"},"DNS":{"status":"Up","incidents":[],"emergencyThreshold":"0.0000"}},"lastUpdateApiDatabase":1548957471,"version":1,"status":"Up"}

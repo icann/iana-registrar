@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "tld": "example",
+  "status": "Up",
+  "testedService": [
+    {
+      "service": "DNS",
+      "enabled": "Yes",
+      "status": "Up",
+      "emergencyThreshold": 25,
+      "incidents": [
+        {
+          "incidentID": "1422492450.699",
+          "startTime": 1422492450,
+          "falsePositive": "False",
+          "state": "Active",
+          "endTime": null
+        },
+        {
+          "incidentID": "1422492850.3434",
+          "startTime": 1422492850,
+          "falsePositive": "True",
+          "state": "Resolved",
+          "endTime": 1422492950
+        }
+      ]      
+    }
+  ]
+}

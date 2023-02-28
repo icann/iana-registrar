@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "lastUpdateApiDatabase": 1222492448,
+  "incidents": [
+    {
+      "incidentID": "1222492448.699",
+      "startTime": 1222492448,
+      "falsePositive": true,
+      "state": "Active",
+      "endTime": null
+    }
+  ]
+}
