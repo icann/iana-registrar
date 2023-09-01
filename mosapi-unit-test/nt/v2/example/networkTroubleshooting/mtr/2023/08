@@ -1,12 +1,4 @@
-    [
-    {
-        "name": "30",
-        "type": "directory",
-        "mtime": "Thu, 31 Aug 2023 00:15:03 GMT"
-    },
-    {
-        "name": "31",
-        "type": "directory",
-        "mtime": "Fri, 01 Sep 2023 00:15:03 GMT"
-    }
-    ]
+[
+{ "name":"30", "type":"directory", "mtime":"Thu, 31 Aug 2023 00:15:03 GMT" },
+{ "name":"31", "type":"directory", "mtime":"Fri, 01 Sep 2023 00:15:03 GMT" }
+]
